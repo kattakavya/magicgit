@@ -3,5 +3,5 @@
             [magicgit.core :refer :all]))
 
 (deftest a-test
-  (testing "hello"
+  (testing "hello2"
     (is (= 0 1))))
